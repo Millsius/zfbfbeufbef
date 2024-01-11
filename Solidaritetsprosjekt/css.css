@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, rgb(0, 128, 255) 50%, rgb(255, 238, 0) 50%) no-repeat;
+    background-attachment: fixed;
+}
+
+
+.center {
+    text-align: center;
+}
+
+
+.header {
+    margin-bottom: 20px;
+     
+}
+
+.boks2 {
+    margin-bottom: 20px; /* Add margin between boxes */
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 1000px;
+
+    text-align: left;
+}
+
+
